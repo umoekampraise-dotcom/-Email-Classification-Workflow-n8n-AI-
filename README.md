@@ -1,12 +1,12 @@
-#📧 Email Classification Workflow — n8n + AI
+# 📧 Email Classification Workflow — n8n + AI
 
-##What This Does
+## What This Does
 Imagine running a business where hundreds of emails flood your inbox every single day. Someone has to read each one, figure out who it's for, and forward it to the right team. That's hours of manual work — and humans make mistakes.
 This workflow eliminates that problem completely.
 It monitors your inbox 24/7, reads every incoming email, and uses AI to instantly decide which department should handle it — then logs everything automatically. No human sorting. No missed emails. No wrong department.
 __________________________________________________________________________________________________________________________________________
 
-##How It Works
+## How It Works
 
 The moment an email lands in your inbox, the workflow wakes up and gets to work:
 
