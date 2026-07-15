@@ -53,7 +53,7 @@ Most businesses treat email sorting as a small problem — until they're drownin
 This workflow solves that before it becomes a problem. It scales infinitely, works around the clock, and never gets tired or distracted.
 __________________________________________________________________________________________________________________________________________
 Built By
-Torobong Umoekam Edet (Eddie)
+Torobong Umoekam Edet 
 Law Student | AI & Automation Specialist
 www.linkedin.com/in/torobong-umoekam-32b0b2291
 
