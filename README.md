@@ -40,7 +40,12 @@ All of these tools have free tiers. You don't need to spend a single dollar to r
 
 ## The Result
 Every classified email gets logged into Google Sheets like this:
-TimestampFromSubjectCategory2024-05-16 08:32john@gmail.comInterested in your pricingSales2024-05-16 09:14angry@customer.comMy order never arrivedCustomer Service2024-05-16 10:05staff@company.comAnnual leave requestHuman Resources
+| Timestamp | From | Subject | Category | 
+|---|---|---|---|
+| 2024-05-16 08:32 | john@gmail.com | Interested in your pricing | Sales | 
+|2024-05-16 09:14 | angry@customer.com | My order never arrived | Customer Service | 
+| 2024-05-16 10:05 | staff@company.com | Annual leave request | Human Resources |
+
 Clean. Organised. Automatic.
 
 ## Why This Matters
