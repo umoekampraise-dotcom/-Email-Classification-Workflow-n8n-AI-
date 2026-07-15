@@ -20,9 +20,8 @@ Google Sheets Logger — records everything into a clean spreadsheet in real tim
 
 ## Departments It Classifies Into
 
-| Department  |    Example Emails📈|
-
-|-------------|--------------|
+|Department|Example Emails📈|
+|----------|----------------|
 | Sales | Pricing inquiries, product interest, renewals🎧|
 | Customer Service | Complaints, support requests, refunds👥|
 | Human Resources | Job applications, leave requests, recruitment💰|
