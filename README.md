@@ -29,7 +29,7 @@ Google Sheets Logger — records everything into a clean spreadsheet in real tim
 | **Operations** | Deliveries, logistics, scheduling📂 |
 | **Others** | Anything that doesn't fit the above |
 
-##Tools Used
+## Tools Used
 
 n8n — the automation platform that powers the entire workflow
 OpenAI GPT — the AI brain that reads and classifies emails
@@ -38,15 +38,15 @@ Gmail / IMAP — the email trigger
 
 All of these tools have free tiers. You don't need to spend a single dollar to run this.
 
-The Result
+## The Result
 Every classified email gets logged into Google Sheets like this:
 TimestampFromSubjectCategory2024-05-16 08:32john@gmail.comInterested in your pricingSales2024-05-16 09:14angry@customer.comMy order never arrivedCustomer Service2024-05-16 10:05staff@company.comAnnual leave requestHuman Resources
 Clean. Organised. Automatic.
 
-Why This Matters
+## Why This Matters
 Most businesses treat email sorting as a small problem — until they're drowning in 500 unread emails and the wrong team is handling the wrong messages.
 This workflow solves that before it becomes a problem. It scales infinitely, works around the clock, and never gets tired or distracted.
-
+__________________________________________________________________________________________________________________________________________
 Built By
 Torobong Umoekam Edet (Eddie)
 Law Student | AI & Automation Specialist
