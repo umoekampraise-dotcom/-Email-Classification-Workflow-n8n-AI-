@@ -1,23 +1,30 @@
-📧 Email Classification Workflow — n8n + AI
-What This Does
+#📧 Email Classification Workflow — n8n + AI
+
+##What This Does
 Imagine running a business where hundreds of emails flood your inbox every single day. Someone has to read each one, figure out who it's for, and forward it to the right team. That's hours of manual work — and humans make mistakes.
 This workflow eliminates that problem completely.
 It monitors your inbox 24/7, reads every incoming email, and uses AI to instantly decide which department should handle it — then logs everything automatically. No human sorting. No missed emails. No wrong department.
 
-How It Works
+##How It Works
 The moment an email lands in your inbox, the workflow wakes up and gets to work:
 
-Email Trigger — watches your inbox via IMAP and fires the workflow the second a new email arrives
+##Email Trigger — watches your inbox via IMAP and fires the workflow the second a new email arrives
 Extract Email Data — pulls out the important stuff: the sender, subject, and body
 AI Agent — powered by OpenAI GPT, it reads the email content and decides which department it belongs to
 Switch Router — takes the AI's decision and routes the email down the correct path
 Set Node — labels the email with the department name and timestamp
 Google Sheets Logger — records everything into a clean spreadsheet in real time
-
-Departments It Classifies Into
-DepartmentExample Emails📈 SalesPricing inquiries, product interest, renewals🎧 Customer ServiceComplaints, support requests, refunds👥 Human ResourcesJob applications, leave requests, recruitment💰 FinanceInvoices, payments, billing issues🚚 OperationsDeliveries, logistics, scheduling📂 OtherAnything that doesn't fit the above
-
-Tools Used
+---------------------------------------------------------------------
+|##Departments It Classifies Into|
+| Department  |    Example Emails📈|
+| Sales | Pricing inquiries, product interest, renewals🎧|
+| Customer Service | Complaints, support requests, refunds👥|
+| Human Resources | Job applications, leave requests, recruitment💰|
+| Finance | Invoices, payments, billing issues🚚 |
+| Operations | Deliveries, logistics, scheduling📂 |
+| Others | Anything that doesn't fit the above|
+_________________________________________________
+##Tools Used
 
 n8n — the automation platform that powers the entire workflow
 OpenAI GPT — the AI brain that reads and classifies emails
