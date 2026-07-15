@@ -4,11 +4,13 @@
 Imagine running a business where hundreds of emails flood your inbox every single day. Someone has to read each one, figure out who it's for, and forward it to the right team. That's hours of manual work — and humans make mistakes.
 This workflow eliminates that problem completely.
 It monitors your inbox 24/7, reads every incoming email, and uses AI to instantly decide which department should handle it — then logs everything automatically. No human sorting. No missed emails. No wrong department.
+__________________________________________________________________________________________________________________________________________
 
 ##How It Works
+
 The moment an email lands in your inbox, the workflow wakes up and gets to work:
 
-##Email Trigger — watches your inbox via IMAP and fires the workflow the second a new email arrives
+Email Trigger — watches your inbox via IMAP and fires the workflow the second a new email arrives
 Extract Email Data — pulls out the important stuff: the sender, subject, and body
 AI Agent — powered by OpenAI GPT, it reads the email content and decides which department it belongs to
 Switch Router — takes the AI's decision and routes the email down the correct path
